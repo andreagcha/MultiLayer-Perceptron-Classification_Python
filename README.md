@@ -1,0 +1,2 @@
+# MultiLayer-Perceptron-Classification_Python
+Multi-Layer Perceptron classifier with a single hidden layer for performing both binary and multi-class classification. The model implements the backpropagation algorithm. To optimize the process of updating the weight matrices, it uses the Stochastic Gradient Descent (SGD) algorithm. You can use sklearn.neural_network.MLPClassifier as long as all the functionality required in the problem description exists.
